@@ -1,3 +1,9 @@
+"""
+Plugin для работы с API Rick&Morty
+(создание хука и оператора подсчета top-3 локаций
+с максимальным количеством резидентов
+"""
+
 import logging
 from operator import itemgetter
 
